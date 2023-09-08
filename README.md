@@ -1,6 +1,6 @@
-### Hi there 👋
-
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=30&duration=4000&pause=1000&color=5F15AD&background=4F7AFF00&center=true&vCenter=true&multiline=true&width=450&lines=Hi+there+%F0%9F%91%8B+Shailika+Sahu)](https://git.io/typing-svg)
 <!--
+ ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Guedesou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 **ShailikaS/ShailikaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <p float="left">
 
+<!--![Hacking GIF - Find   Share on GIPHY](https://github.com/ShailikaS/ShailikaS/assets/107252411/a7ac04a5-93e4-4190-8c0e-b6a56d2a554d)![Hacking GIF - Find   Share on GIPHY](https://github.com/ShailikaS/ShailikaS/assets/107252411/a7ac04a5-93e4-4190-8c0e-b6a56d2a554d)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShailikaS&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShailikaS&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShailikaS&theme=radical&utcOffset=8)
