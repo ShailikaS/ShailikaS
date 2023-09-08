@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<p float="left">
 
-<!--![Hacking GIF - Find   Share on GIPHY](https://github.com/ShailikaS/ShailikaS/assets/107252411/a7ac04a5-93e4-4190-8c0e-b6a56d2a554d)![Hacking GIF - Find   Share on GIPHY](https://github.com/ShailikaS/ShailikaS/assets/107252411/a7ac04a5-93e4-4190-8c0e-b6a56d2a554d)-->
+![Hacking GIF - Find   Share on GIPHY](https://github.com/ShailikaS/ShailikaS/assets/107252411/a7ac04a5-93e4-4190-8c0e-b6a56d2a554d)![Hacking GIF - Find   Share on GIPHY](https://github.com/ShailikaS/ShailikaS/assets/107252411/a7ac04a5-93e4-4190-8c0e-b6a56d2a554d)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShailikaS&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShailikaS&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShailikaS&theme=radical&utcOffset=8)
-</p>
+
+-->
+
