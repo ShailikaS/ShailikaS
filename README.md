@@ -1,4 +1,7 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=30&duration=4000&pause=1000&color=5F15AD&background=4F7AFF00&center=true&vCenter=true&multiline=true&width=450&lines=Hi+there+%F0%9F%91%8B+Shailika+Sahu)](https://git.io/typing-svg)
+![wel_tips 5624828](https://github.com/ShailikaS/ShailikaS/assets/107252411/13bc2154-4b8f-4164-9129-de6344f8c80b)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=30&duration=4000&pause=1000&color=5F15AD&background=4F7AFF00&center=true&vCenter=true&multiline=true&width=450&lines=Hi+there+%F0%9F%91%8B+Shailika+Sahu)](https://git.io/typing-svg)
+
+<img src="https://github.com/ShailikaS/ShailikaS/assets/107252411/fd04fa88-bdac-494c-bd70-f4cb401e75c8" width="200" height="380">
+
 <!--
  ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Guedesou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 **ShailikaS/ShailikaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
