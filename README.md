@@ -1,6 +1,9 @@
 ![wel_tips 5624828](https://github.com/ShailikaS/ShailikaS/assets/107252411/13bc2154-4b8f-4164-9129-de6344f8c80b)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=30&duration=4000&pause=1000&color=5F15AD&background=4F7AFF00&center=true&vCenter=true&multiline=true&width=450&lines=Hi+there+%F0%9F%91%8B+Shailika+Sahu)](https://git.io/typing-svg)
 
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" height="50">
 <img src="https://github.com/ShailikaS/ShailikaS/assets/107252411/fd04fa88-bdac-494c-bd70-f4cb401e75c8" width="200" height="380">
+
+
 
 <!--
  ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Guedesou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
